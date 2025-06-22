@@ -50,6 +50,10 @@ Integration with an LLM for the **augmentation** and **generation** steps comple
 
     ```bash
     pip install -r requirements.txt
+
+    OR
+
+    conda env create -f environment.yml -p ./.conda
     ```
 
 ## Quickstart Guide
