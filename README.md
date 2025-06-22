@@ -1,4 +1,4 @@
-# ArXiv Semantic Search Retriever
+# ArXiv Semantic Search Engine
 
 A lightweight **semantic search engine** for arXiv abstracts, built for seamless integration into a larger Retrieval-Augmented Generation (RAG) pipeline.
 
